@@ -10,4 +10,4 @@ dfs
 df_uf = dfs[1]
 df_uf
 
-df_uf.to_csv('Data/uf.csv', sep=";", index=False)
+df_uf.to_csv('../Data/uf.csv', sep=";", index=False)
