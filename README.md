@@ -31,15 +31,7 @@ O projeto foi desenvolvido enquanto estudo o Pandas através do canal [TeoMeWhy]
    ```bash
    pip install pandas
    
-3.***Estrutura do Projeto***
-PandasTeo/
-│
-├── Data/
-│   └── uf.csv         # Arquivo CSV gerado com os dados
-│
-├── nome_do_script.py  # Script principal para extração e manipulação dos dados
-│
-└── README.md          # Este arquivo de documentação
+
 
 
 
